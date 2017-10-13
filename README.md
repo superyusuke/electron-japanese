@@ -1,3 +1,4 @@
-# My Awesome Book
+# Electron の公式サイト及びドキュメントの翻訳と解説
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
