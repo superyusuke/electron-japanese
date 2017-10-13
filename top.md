@@ -28,7 +28,7 @@ The [Electron API Demos app](https://github.com/electron/electron-api-demos) \(G
 
 [ダウンロードリンク](https://electron-api-demos.githubapp.com/updates/electron-api-demos-mac.zip) \(実際のアプリケーションのダウンロード\)
 
-## [Quick Start](https://github.com/electron/electron-quick-start) を立ち上げて、Electron がどのように動作するのかご覧下さい
+## [Quick Start](https://github.com/electron/electron-quick-start) アプリケーションを立ち上げて、Electron がどのように動作するのかご覧下さい
 
 _**Spin up the **_[_**Quick Start**_](https://github.com/electron/electron-quick-start)_** app to see Electron in action:**_
 
